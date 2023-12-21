@@ -1,0 +1,87 @@
+/* Global */
+
+img {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration:none;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;    
+    font-size: 25px;
+}
+
+h3 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* Homepage */
+
+#titlecard {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.homebody {
+    background-color: #f3d5da;
+}
+
+#mainmeallist {
+    text-align: center;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:#cb2ae0;
+    padding:0
+}
+
+/* GreenEggsAndHam */
+
+.greeneggstext {
+    color:#036d1a;
+}
+
+.greenhamtext {
+    color: #178b21;
+    background-color: #baffba;
+}
+
+/* FizzyLiftingDrinks */
+
+.darktrq {
+    color: darkturquoise;    
+}
+
+.rainbowtext {
+    color: cyan;
+    text-shadow: -4px -4px blue,
+    -8px -8px pink;
+    background-color: azure;
+}
+
+/* SoylentGreen */
+
+.soygreen {
+    color: rgb(62, 100, 62);
+    text-shadow: -1px -1px rgba(238, 105, 105, 0.267);
+}
+
+.soygrey {
+    color:black;
+    text-shadow:-1px -1px cadetblue;
+    text-shadow: 1px 1px cadetblue;
+    background-color: grey;
+}
